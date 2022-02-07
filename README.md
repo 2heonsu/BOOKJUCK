@@ -1,5 +1,4 @@
-# BOOKJUCK
-- Book selling web page 
+# BOOKJUCK(도서 판매 페이지)
 - KH semi project(jsp/servlet)
 
 
